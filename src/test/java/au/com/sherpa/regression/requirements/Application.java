@@ -27,4 +27,10 @@ public class Application {
 		public class CreateRoster{}
 	}
 	
+	@Feature
+	public class Training{
+		public class MyTraining{}
+		public class Course{}
+	}
+	
 }
